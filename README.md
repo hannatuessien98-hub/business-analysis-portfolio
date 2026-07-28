@@ -37,4 +37,4 @@ Artifacts follow **BABOK v3** structure and **BPMN 2.0** notation for process mo
 
 ## About
 
-Produced by **Hannatu Essien** as a portfolio demonstration. The originating project charter was a team deliverable (Workstream 5, TCA Class of June 2022); the analysis, models, and documentation in this repository are my own work built from that charter.
+Produced by **Hannatu Essien** as a portfolio demonstration. The originating project charter was a team deliverable; the analysis, models, and documentation in this repository are my own work built from that charter.
