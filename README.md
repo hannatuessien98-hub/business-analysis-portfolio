@@ -37,4 +37,8 @@ Artifacts follow **BABOK v3** structure and **BPMN 2.0** notation for process mo
 
 ## About
 
-Produced by **Hannatu Essien** as a portfolio demonstration. The originating project charter was a team deliverable; the analysis, models, and documentation in this repository are my own work built from that charter.
+**Hannatu Essien** — Senior Business Analyst, Kitchener, Ontario. 10+ years across enterprise IT, government programme delivery, and large-scale digital transformation, including Oracle ERP and SAP implementations, UAT design and defect management, and Agile/Scrum delivery governance.
+
+📄 **[Download resume (PDF)](Hannatu-Essien-BA-Resume.pdf)** · [LinkedIn](https://www.linkedin.com/in/hannatu-agbadalo-essien-823a43203)
+
+This repository is a demonstration of method. The originating project charter was a team deliverable; the analysis, models, and documentation here are my own work built from that charter.
